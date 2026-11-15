@@ -13,6 +13,3 @@ An end-to-end exploratory data analysis (EDA) project investigating the Cairo re
 2. **Feature Importance:** How do square meterage, number of bedrooms, and furnishing status correlate with rental prices?
 3. **Market Momentum:** Which neighborhoods experience the most aggressive rent increases?
 4. **Data Integrity:** Handling outliers and phantom listings to establish accurate market baselines.
-
----
-*Created with passion for data storytelling.*
